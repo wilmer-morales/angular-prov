@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "oneweb"
+    }
+  },
+  "defaultProject": "oneweb",
+  "cli": {
+    "analytics": "22eb3bd5-3bf9-4f8a-9fc2-78126e8278ae"
+  }
 }
